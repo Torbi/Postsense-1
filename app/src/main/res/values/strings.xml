@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Postsense</string>
+    <string name = "channel_name"> notificationChannelname</string>
+    <string name="notificationId">notification1</string>
+</resources>
